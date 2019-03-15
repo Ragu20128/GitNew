@@ -13,7 +13,7 @@ public class Shruti{
 public ProjectShruti() {
 		// TODO Auto-generated constructor stub
 		System.out.println("enter ur name");
-		System.out.println("Raghav");
+		System.out.println("commit");
 		System.out.println("git init "+"git remote add origin path details "+"git add "+"git commit -m Create base"+ "git push -u origin master");
 	
 
