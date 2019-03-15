@@ -16,10 +16,6 @@ public ProjectShruti() {
 		System.out.println("trail2");
 		System.out.println("enter ur name");
 		System.out.println("trail2");
-		System.out.println("enter ur name");
-		System.out.println("trail2");
-		System.out.println("enter ur name");
-		System.out.println("trail2");
 		System.out.println("git init "+"git remote add origin path details "+"git add "+"git commit -m Create base"+ "git push -u origin master");
 	
 
